@@ -1,4 +1,4 @@
-// ------------------ Insertion Sort --------------------
+// ------------------ Selection Sort --------------------
 /*
 1. Repeatedly finding target element and swapping it with the begning element of unsorted array
 2. This Algorithm maintains two arrays
