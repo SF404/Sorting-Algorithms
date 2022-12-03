@@ -14,11 +14,11 @@
                      2 2 4 8 9
                      p   j i
                      return j;       -\ Element at index j is at its right position,
-                                        now thw array is sorted for left and right sub-array in the same manner
+                                        now the array is sorted for left and right sub-array in the same manner
     ------------------------------------------------------------------------------------------
 4. Time Complexity --->
         Best case: O(nLog(n))
-        Worst case: O(n^2)    occurs when the partition always picks the smallest or greatest element as pivot i.e Array is Always Sorted
+        Worst case: O(n^2)    occurs when the partition always picks the smallest or greatest element as pivot i.e Array is already Sorted
 5. Unstable and Not-Inplace (O(nLog(n)))
 
 */
